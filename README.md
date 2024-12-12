@@ -208,7 +208,8 @@
 <br />
 <br />
 
-# 📊GitHub Statistics
+# 📊GitHub Statistics 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Y-Baker.Y-Baker&left_color=gray&right_color=blue" align="right" />
 
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y-Baker&theme=ayu_mirage" alt="statistic" />
@@ -221,6 +222,6 @@
 <br />
 
 <div style="display: flex; gap: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Y-Baker&theme=ayu-mirage&short_numbers=true&hide_border=true" height="190" alt="Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Y-Baker&theme=ayu-mirage&hide_border=true&short_numbers=true&card_height=190" height="190" alt="Streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Y-Baker&langs_count=8&hide_border=true&locale=en&layout=compact&theme=noctis_minimus" alt="MostLanguages" />
 </div>
